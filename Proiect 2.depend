@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1589131102 source:c:\users\salci\desktop\cursuri\proiect c++\proiect 2\frigider.cpp
+	"Frigider.h"
+
+1589056090 c:\users\salci\desktop\cursuri\proiect c++\proiect 2\frigider.h
+	"Produs.h"
+
+1589043135 c:\users\salci\desktop\cursuri\proiect c++\proiect 2\produs.h
+	<string>
+
+1589139118 source:c:\users\salci\desktop\cursuri\proiect c++\proiect 2\magazin.cpp
+	"Magazin.h"
+	<iostream>
+	"MasinaDeSpalat.h"
+	"Frigider.h"
+	"ProdusInexistentException.h"
+	"MagazinPlinException.h"
+
+1589139118 c:\users\salci\desktop\cursuri\proiect c++\proiect 2\magazin.h
+	"Produs.h"
+
+1589055672 c:\users\salci\desktop\cursuri\proiect c++\proiect 2\masinadespalat.h
+	"Produs.h"
+
+1589139130 source:c:\users\salci\desktop\cursuri\proiect c++\proiect 2\main.cpp
+	<iostream>
+	"Produs.h"
+	"Frigider.h"
+	"MasinaDeSpalat.h"
+	"Magazin.h"
+	"ProdusInexistentException.h"
+	"MagazinPlinException.h"
+
+1589055698 source:c:\users\salci\desktop\cursuri\proiect c++\proiect 2\masinadespalat.cpp
+	"MasinaDeSpalat.h"
+
+1589137411 source:c:\users\salci\desktop\cursuri\proiect c++\proiect 2\produs.cpp
+	"Produs.h"
+
+1589110620 c:\users\salci\desktop\cursuri\proiect c++\proiect 2\produsinexistentexception.h
+
+1589110620 c:\users\salci\desktop\cursuri\proiect c++\proiect 2\magazinplinexception.h
+
